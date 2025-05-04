@@ -32,7 +32,7 @@ Right now, I'm focused on:
 
 **Tools & Platforms:**  
 - Git & GitHub  
-- AWS Educate & basic cloud concepts  
+- Microsoft Azure, AWS Educate & basic cloud concepts  
 - VS Code, Eclipse, Jupyter Notebook  
 
 
