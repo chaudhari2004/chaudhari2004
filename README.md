@@ -44,8 +44,7 @@ Right now, I'm focused on:
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/vivek-chaudhari-a033b6259
-)  
+
 📬 Email: chaudharivivek2004@gmail.com  
 
 ---
