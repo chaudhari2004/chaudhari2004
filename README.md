@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Vivek!
 
-🎓 3rd Year B.Tech Student | 💻 Java & Python Learner | 🧠 Exploring AI/ML & Data Engineering
+🎓 B.Tech Student | 💻 Java & Python Learner | 🧠 Exploring AI/ML & Data Engineering
 
 ---
 
