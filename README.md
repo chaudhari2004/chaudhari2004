@@ -17,7 +17,7 @@
   - Salesforce Adventurer 🧭  
   - SIH 2024 Top 30 Finalist 🏅  
 - 💬 Ask me about: `Java`, `Python`, `SQL`, `Cloud Basics`, `Mini Projects`  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vivek-chaudhari)
+- 📫 Reach me at: [LinkedIn]( https://www.linkedin.com/in/vivek-chaudhari-a033b6259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -72,10 +72,10 @@
 📢 **Let's Connect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivek-chaudhari" target="_blank">
+  <a href="https://www.linkedin.com/in/vivek-chaudhari-a033b6259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   " target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vivekchaudhari2211@gmail.com" target="_blank">
+  <a href="mailto:chaudharivivek2004@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
