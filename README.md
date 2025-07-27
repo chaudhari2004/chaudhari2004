@@ -62,10 +62,10 @@
 
 🚀 **Highlighted Projects**
 
-- ♻️ [E-Waste Recycler Portal](https://github.com/Vivek-chaudhari/Ewaste-Recycling-Portal) – Web app for waste pickup request and approval.
-- 🏦 [Bank Web App](https://github.com/Vivek-chaudhari/BankWebApp) – Core Java + JDBC + JSP + MySQL banking simulation.
-- ⏰ [Reminder App](https://github.com/Vivek-chaudhari/ReminderApp) – Simple Java-based task reminder with GUI.
-- 📚 [Spring ORM Student App](https://github.com/Vivek-chaudhari/Spring-ORM-Student-App) – CRUD project using Spring + Hibernate.
+- ♻️ [E-Waste Recycler Portal] – Web app for waste pickup request and approval.
+- 🏦 [Bank Web App] – Core Java + JDBC + JSP + MySQL banking simulation.
+- ⏰ [Reminder App]– Simple Java-based task reminder with GUI.
+
 
 ---
 
