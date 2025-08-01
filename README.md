@@ -59,10 +59,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vivek-chaudhari&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-chaudhari&layout=compact&theme=github_dark" />
+ <p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari2004&layout=compact&theme=tokyonight" />
+</p>
 </p>
 
 ---
+
+
 
 ## 🚀 Highlighted Projects
 
