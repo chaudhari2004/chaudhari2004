@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Chaudhari</h1>
 <h3 align="center">Aspiring Data Engineer | Java & Python Enthusiast | Cloud Explorer ☁️</h3>
+<p align="center"><i>Transforming ideas into scalable, real-world solutions 💡💻</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Core+Java+%7C+Python+%7C+SQL;Azure+%7C+VS+Code+%7C+Eclipse+%7C+Jupyter;Data+Engineer+%7C+Cloud+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
@@ -13,15 +14,22 @@
 
 ## 🌟 About Me
 
-- 🎓 B.Tech in CSE (Data Science) @ RCPIT | 🎓 *2026 Graduate*  
-- 🚀 I’m currently working on: `E-Waste Recycling Portal`, `Reminder App`, `Banking Web App`  
-- 📘 Currently Exploring: `Microsoft Azure`, `Advanced SQL`, `Data Engineering Tools`  
-- 🏅 **Achievements**  
+- 🎓 B.Tech in CSE (Data Science) @ **RCPIT** (2026 Graduate)  
+- 🚀 Currently working on: `E-Waste Recycling Portal`, `Reminder Management System`, `Banking Web App`  
+- 📘 Currently exploring: `Microsoft Azure`, `Advanced SQL`, `Data Engineering Tools`  
+- 🏅 **Achievements:**  
   - ✅ IBM Python Badge  
   - 🧭 Salesforce Adventurer  
-  - 🏆 SIH 2024 Top 30 Finalist  
-- 💬 Ask me about: `Java`, `Python`, `SQL`, `Cloud`, `Mini Projects`  
-- 🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/vivek-chaudhari-a033b6259)
+  - 🏆 SIH 2024 – Top 30 Finalist  
+- 💬 Ask me about: `Java`, `Python`, `SQL`, `Cloud`, `Backend Projects`  
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/vivek-chaudhari-a033b6259)**
+
+---
+
+## 📌 Currently Improving
+- Apache Spark / PySpark  
+- Advanced SQL for Data Engineering  
+- Microsoft Azure Data Services
 
 ---
 
@@ -32,7 +40,7 @@
 - 🐍 **Python**
 - 🗃️ **SQL**
 
-### 💻 IDEs & Tools
+### 💻 Tools & IDEs
 - 🧠 **Eclipse IDE**
 - 💡 **IntelliJ IDEA**
 - 🖥️ **VS Code**
@@ -43,10 +51,10 @@
 
 ---
 
-## 🧰 Tools I Use (With Icons)
+## 🧰 Preferred Tech Stack (with icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,azure,vscode,eclipse,intellij,jupyter" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,azure,spring,git,github,jupyter" />
 </p>
 
 ---
@@ -59,27 +67,27 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vivek-chaudhari&show_icons=true&theme=github_dark" />
- <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari2004&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari2004&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-
 
 ## 🚀 Highlighted Projects
 
 | Project | Description |
 |--------|-------------|
-| ♻️ **[E-Waste Recycler Portal](#)** | Web app for easy pickup request and approval |
+| ♻️ **E-Waste Recycler Portal** | Web app for pickup request management and approval |
 | 🏦 **Bank Web App** | Core Java + JDBC + JSP + MySQL Banking simulation |
-| ⏰ **Reminder App** | Java-based reminder app with GUI features |
+| ⏰ **Reminder Management System** | Web-based reminder system with CRUD + Today reminder view |
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Let’s Connect
+
+📫 Feel free to reach out for collaboration, project discussion, or just a friendly tech chat!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-chaudhari-a033b6259" target="_blank">
@@ -92,8 +100,7 @@
 
 ---
 
-## ⚡ Fun Fact  
-I enjoy solving real-world problems through code and love exploring new tech stacks—especially anything cloud, automation, or backend related! 🌐💻
+## ⚡ Personal Vision  
+I strive to build scalable backend systems and data pipelines that make real-world processes smarter, faster, and more efficient.
 
 ---
-
