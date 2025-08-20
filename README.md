@@ -59,12 +59,12 @@
 
 ## 🚀 Highlighted Projects
 
-| Project | Description | GitHub Link |
+| Project | Description | |
 |--------|-------------|--------------|
-| ♻️ **E-Waste Recycler Portal** | Role-based Java Web App for managing pickup requests | https://github.com/chaudhari2004/Ewaste-Recycling-Portal |
-| 🤖 **Jarvis – Personal Desktop Assistant** | Python-based voice assistant with task automation features | https://github.com/chaudhari2004/Jarvis-Desktop-Assistant |
-| ⏰ **Reminder Management System** | CRUD-based reminder application (JSP + JDBC + MySQL) | https://github.com/chaudhari2004/Reminder-Management-System |
-| 🏦 **Bank Web Application** | Java-JSP based banking simulation with user authentication | https://github.com/chaudhari2004/Banking-Web-App |
+| ♻️ **E-Waste Recycler Portal** | Role-based Java Web App for managing pickup requests |
+| 🤖 **Jarvis – Personal Desktop Assistant** | Python-based voice assistant with task automation features | 
+| ⏰ **Reminder Management System** | CRUD-based reminder application (JSP + JDBC + MySQL) |
+| 🏦 **Bank Web Application** | Java-JSP based banking simulation with user authentication | 
 
 ---
 
