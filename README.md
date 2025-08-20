@@ -15,7 +15,7 @@
 ## 🌟 About Me
 
 - 🎓 B.Tech in CSE (Data Science) @ **RCPIT** (2026 Graduate)  
-- 🚀 Currently working on: `E-Waste Recycling Portal`, `Reminder Management System`, `Banking Web App`  
+- 🚀 Project: `E-Waste Recycling Portal`, `Reminder Management System`, `Banking Web App`, `Jarvis:Personal Desktop Assistant`  
 - 📘 Currently exploring: `Microsoft Azure`, `Advanced SQL`, `Data Engineering Tools`  
 - 🏅 **Achievements:**  
   - ✅ IBM Python Badge  
