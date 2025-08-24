@@ -1,83 +1,112 @@
-<h1 align="center">Hi 👋, I'm Vivek Chaudhari</h1>
-<h3 align="center">Java Developer | Python Enthusiast | Cloud Explorer ☁️</h3>
-<p align="center"><i>Turning ideas into scalable backend systems and data-driven solutions 💡📈</i></p>
+<!-- 🌈 Animated Wavy Banner & Gradient Glass Effect -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Vivek%20Chaudhari&fontAlign=center&fontAlignY=45&fontSize=55&color=gradient&animation=twinkling&desc=Java%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Cloud%20Explorer&descAlign=center&descAlignY=70" />
+</p>
+
+<!-- 🔥 Typewriter Animation with Bold Colors -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1200&color=F7971E&center=true&vCenter=true&width=720&lines=Innovator+%7C+Backend+Engineer+%7C+Cloud+Visionary;Turning+Ideas+%F0%9F%92%A1+into+Scalable+Systems+%F0%9F%92%BB;Data+Driven%2C+Impact+Focused+%F0%9F%93%88;Welcome+to+my+Tech+Universe+%F0%9F%8C%8D"
+  />
+</p>
+
+<!-- 👾 Animated Avatar or GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
+
+---
+
+## 🌟 **Snapshot**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Core+Java+%7C+Python+%7C+SQL;Spring+%7C+JSP+%7C+Servlets+%7C+JDBC;Azure+%7C+Git+%7C+Jupyter+%7C+MySQL;Data+Engineer+Mindset+%7C+Cloud+Explorer+%7C+Problem+Solver" />
+<table>
+<tr>
+<td width="50%">
+<ul>
+  <li>🎓 <b>B.Tech</b> – Computer Science & Data Science</li>
+  <li>👨‍💻 <b>Backend Development</b> | <b>Data Engineering</b> | <b>Cloud Technologies</b></li>
+  <li>🚀 <b>Exploring:</b> Azure, Advanced SQL, Spring, Microservices</li>
+  <li>🤝 <b>Collaboration:</b> Java, Python, Cloud Projects</li>
+</ul>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,azure,spring,mysql,git,github,jupyter,aws,linux,idea" height="120"/>
+</td>
+</tr>
+</table>
 </div>
+
+---
+
+## 🏅 **Spotlight Achievements**
+
+- 🥇 <b>Hackathon Champion</b> – Code, Cloud & Creativity
+- 💡 <b>Inventor</b> – Scalable backend and data solutions
+- 🔥 <b>Mentor</b> – Guiding tomorrow’s innovators
+
+---
+
+## 🛠️ **Tech Stack & Pro Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+## 📈 **GitHub at a Glance**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaudhari2004&theme=vue" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari2004&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudhari2004&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari2004&layout=compact&theme=radical" height="170"/>
 </div>
 
 ---
 
-## 🌟 About Me
+## 🚀 **Featured Projects**
 
-- 🎓 B.Tech in **Computer Science & Data Science**, R.C. Patel Institute of Technology  
-- 👨‍💻 Passionate about **backend development**, **data engineering** and **cloud technologies**  
-- 🚀 **Currently working on:** Microsoft Azure, Advanced SQL & Spring Framework  
-- 📫 Open to collaboration on Java/Cloud projects  
-- 🧑‍💼 **LinkedIn:** https://www.linkedin.com/in/vivek-chaudhari-a033b6259
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Tools & Technologies |
-|--------|-----------------------|
-| **Languages** | Java (Core), Python, SQL |
-| **Frameworks** | Spring, JSP, Servlets, JDBC |
-| **Database** | MySQL |
-| **Cloud** | Microsoft Azure (Storage, Data Factory), AWS Educate (Basics) |
-| **Tools & IDEs** | VS Code • Eclipse • IntelliJ IDEA • Jupyter |
-| **Version Control** | Git, GitHub |
+| 🚧 Project | 🚀 Description |
+|:---:|:---|
+| ♻️ <b>E-Waste Recycler Portal</b> | Role-based Java Web App for managing pickup requests |
+| 🤖 <b>Jarvis – Personal Desktop Assistant</b> | Python-based voice assistant for task automation |
+| ⏰ <b>Reminder Management System</b> | CRUD app with JSP, JDBC, MySQL |
+| 🏦 <b>Bank Web Application</b> | Java/JSP-based banking simulation & authentication |
 
 ---
 
-## 🧰 Tech Toolbox (Icons)
+## 🌐 **Connect & Collaborate**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,azure,spring,git,github,jupyter" />
+  <a href="https://www.linkedin.com/in/vivek-chaudhari-a033b6259"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chaudharivivek2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/chaudhari2004"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ **My Motto**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari2004&theme=tokyonight" />
+  <strong>
+    Building impactful tech for a smarter world.<br>
+    Driven by curiosity, collaboration, and lifelong learning.
+  </strong>
 </p>
+
+<!-- 🌊 Footer Gradient Waves Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhari2004&show_icons=true&theme=github_dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=22&fontAlign=center" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari2004&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Highlighted Projects
-
-| Project | Description | |
-|--------|-------------|--------------|
-| ♻️ **E-Waste Recycler Portal** | Role-based Java Web App for managing pickup requests |
-| 🤖 **Jarvis – Personal Desktop Assistant** | Python-based voice assistant with task automation features | 
-| ⏰ **Reminder Management System** | CRUD-based reminder application (JSP + JDBC + MySQL) |
-| 🏦 **Bank Web Application** | Java-JSP based banking simulation with user authentication | 
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivek-chaudhari-a033b6259"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:chaudharivivek2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
-
-## ⚡ Personal Vision
-
-I aim to build robust backend systems and scalable data pipelines that solve real-world problems and improve everyday life. Always learning. Always improving.
-
