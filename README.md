@@ -106,7 +106,7 @@
   </strong>
 </p>
 
-<!-- 🌊 Footer Gradient Waves Banner -->
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=22&fontAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Thanks+for+visiting!&fontAlign=center&fontSize=28&color=gradient" />
 </p>
