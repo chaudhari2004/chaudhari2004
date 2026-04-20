@@ -80,7 +80,7 @@
 
 | 🚧 Project | 🚀 Description |
 |:---:|:---|
-| ♻️ <b>E-Waste Recycler Portal</b> | Role-based Java Web App for managing pickup requests |
+| ♻️ <b>E-Waste Recycler Portal</b> | Role-based Java Web App for managing pickup requests|
 | 🤖 <b>Jarvis – Personal Desktop Assistant</b> | Python-based voice assistant for task automation |
 | ⏰ <b>Reminder Management System</b> | CRUD app with JSP, JDBC, MySQL |
 | 🏦 <b>Bank Web Application</b> | Java/JSP-based banking simulation & authentication |
