@@ -82,15 +82,20 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 📈 **GitHub at a Glance**
+## 📈 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaudhari2004&theme=vue" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari2004&theme=radical" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=chaudhari2004&show_icons=true&theme=radical" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari2004&layout=compact&theme=radical" height="170"/>
+
 </div>
+
+<p align="center">
+  🚀 26+ Repositories | ☁️ AWS Projects | 📊 Data Analytics Projects | 🐍 Python Development
+</p>
+
 ---
 
 
